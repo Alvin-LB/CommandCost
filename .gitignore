@@ -37,7 +37,7 @@ ehthumbs.db
 Thumbs.db
 
 # IntelliJ
-.iml
+*.iml
 .idea/
 out/
 
